@@ -2,6 +2,6 @@
 
 * 👋 Hello! My name is Nick Kipshidze. I'm from Georgia;
 * 💻 **I love** to write code and I dedicate most of my time to it;
-* 🤓 I always want to improve and learn more. I can program in Python, JavaScript, C++, Lua and BrainFK(Esoteric Language);
+* 🤓 I always want to improve and learn more. I can program in Python, JavaScript, C++, Lua and BrainFK (Esoteric Language);
 * I'm a software, web and game developer;
 * I can speak English, Russian and Georgian fluently.
