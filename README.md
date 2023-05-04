@@ -9,7 +9,8 @@
 
 <div align = "center">
 
-[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=NickKipshidze&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickKipshidze&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKipshidze&show_icons=true&theme=dracula)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=NickKipshidze&show_icons=true&layout=compact&theme=dracula)
 
 <p>
 Nick the programmer, computer scientist, techie and linux enthusiast.
