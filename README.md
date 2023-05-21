@@ -9,8 +9,9 @@
 
 <div align = "center">
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKipshidze&show_icons=true&theme=github_dark)
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=NickKipshidze&show_icons=true&layout=compact&theme=github_dark)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKipshidze&show_icons=true&theme=github_dark_dimmed)
+<br>
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=NickKipshidze&show_icons=true&layout=compact&theme=github_dark_dimmed)
 
 <p>
 Nick the programmer, computer scientist, techie and linux enthusiast.
