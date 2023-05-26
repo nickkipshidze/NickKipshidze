@@ -3,7 +3,7 @@
 * 👋 Hello! My name is Nick Kipshidze. I'm from Georgia;
 * 💻 I **LOVE** to write code and I dedicate most of my time to it;
 * 🤓 I always want to improve and learn more. I can program in Python, C/C++, C#, JavaScript and Lua;
-* I can speak English 🇬🇧, and Georgian 🇬🇪 fluently;
+* I can speak English 🇬🇧, and Georgian 🇬🇪 fluently.
 
 <br>
 
