@@ -16,7 +16,7 @@
     "editors": ["VIM", "VSCode"],
 
     "frameworks": {
-        "Python": ["Django", "NumPy", "Tensorflow", "Pandas", "OpenCV", "Tkinter", "Pygame"],
+        "Python": ["Django", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "Tkinter", "Pygame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap"]
     },
@@ -31,7 +31,7 @@
 
 <p align="center">    
     <a href="https://github.com/NickKipshidze">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=dark">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react">
     </a>
 </p>
 
