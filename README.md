@@ -29,13 +29,11 @@
 
 <br>
 
-### Top languages
-```Text
-Python                   █████████████████████▓▒░░   80.66 %
-HTML                     ███▓▒░░░░░░░░░░░░░░░░░░░░   14.66 %
-CSS                      █▓▒░░░░░░░░░░░░░░░░░░░░░░   2.45 %
-C                        ▓▒░░░░░░░░░░░░░░░░░░░░░░░   2.19 %
-```
+<p align="center">    
+    <a href="https://github.com/NickKipshidze">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=dark">
+    </a>
+</p>
 
 <h3 align="center">Nick the programmer, brogrammer, computer scientist, 14 year old mad man and linux enthusiast.<h3>
 
