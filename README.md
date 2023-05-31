@@ -1,19 +1,32 @@
-# About me
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/name.svg" alt="Nick Kipshidze"/>
+</h1>
 
-* 👋 Hello! My name is Nick Kipshidze. I'm from Georgia;
-* 💻 I **LOVE** to write code and I dedicate most of my time to it;
-* 🤓 I always want to improve and learn more. I can program in Python, C/C++, C#, JavaScript and Lua;
-* I can speak English 🇬🇧, and Georgian 🇬🇪 fluently.
+<h3 align="left">
+    Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" width="28px" alt="👋">
+</h3>
 
-<br>
+```Json
+{
+    "username": "NickKipshidze",
 
-<div align = "center">
+    "OS": "Arch Linux",
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKipshidze&show_icons=true&theme=github_dark_dimmed)
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=NickKipshidze&show_icons=true&layout=compact&theme=github_dark_dimmed)
-  
-<p>
-Nick the programmer, computer scientist, techie and linux enthusiast.
-</p>
+    "languages": ["Python", "JavaScript", "C", "C++"],
+    "editors": ["VIM", "VSCode"],
 
-</div>
+    "frameworks": {
+        "Python": ["Django", "NumPy", "Tensorflow", "Pandas", "OpenCV", "Tkinter", "Pygame"],
+        "C/C++": ["OpenGL", "Ncurses"],
+        "CSS": ["Bootstrap"]
+    },
+
+    "currently_learning": ["HTML/CSS/JavaScript", "Large Language Models", "Neural Networks"],
+
+    "will_learn": ["Mojo", "TypeScript", "Rust", "PyTorch", "Node", "React", "Vue", "Tailwindcss"]
+}
+```
+
+<h3 align="center">Nick the programmer, brogrammer, computer scientist, 14 year old mad man and linux enthusiast.<h3>
+
+<h3 align="center">I write programs for fun (:</h3?
