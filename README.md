@@ -9,6 +9,7 @@
 ```Json
 {
     "username": "NickKipshidze",
+    "fullname": "Nicolas Kipshidze",
 
     "OS": "Arch Linux",
 
