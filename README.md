@@ -24,7 +24,7 @@
 
     "currently_learning": ["HTML/CSS/JavaScript", "Tailwindcss", "VueJS", "LLMs", "ML/DL"],
 
-    "will_learn": ["Mojo", "TypeScript", "Rust", "PyTorch", "NodeJs", "React"]
+    "will_learn": ["Mojo", "TypeScript", "Rust", "PyTorch", "NodeJs", "React", "Angular"]
 }
 ```
 
