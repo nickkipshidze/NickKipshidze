@@ -22,9 +22,9 @@
         "CSS": ["Bootstrap"]
     },
 
-    "currently_learning": ["HTML/CSS/JavaScript", "Tailwindcss", "VueJS", "LLMs", "ML/DL"],
+    "currently_learning": ["HTML/CSS/JavaScript", "NodeJs", "Tailwindcss", "VueJS", "LLMs", "ML/DL"],
 
-    "will_learn": ["Mojo", "TypeScript", "Rust", "PyTorch", "NodeJs", "React", "Angular"]
+    "will_learn": ["Mojo", "TypeScript", "Rust", "PyTorch", "React", "Angular"]
 }
 ```
 
