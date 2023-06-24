@@ -24,7 +24,7 @@
 
     "currently_learning": ["HTML/CSS/JavaScript", "DRF", "NodeJS", "Tailwindcss", "VueJS", "LLMs", "ML/DL"],
 
-    "will_learn": ["FastAPI", "Mojo", "TypeScript", "Rust", "PyTorch", "React", "Angular"]
+    "will_learn": ["FastAPI", "NLP", "Mojo", "TypeScript", "Rust", "PyTorch", "React", "Angular"]
 }
 ```
 
