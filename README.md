@@ -6,7 +6,7 @@
     Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" width="28px" alt="👋">
 </h3>
 
-```Json
+```JSON
 {
     "username": "NickKipshidze",
     "fullname": "Nicolas Kipshidze",
@@ -22,9 +22,9 @@
         "CSS": ["Bootstrap"]
     },
 
-    "currently_learning": ["HTML/CSS/JavaScript", "DRF", "NodeJS", "Tailwindcss", "VueJS", "LLMs", "ML/DL"],
+    "currently_learning": ["HTML/CSS/JavaScript", "FastAPI", "DRF", "NodeJS", "Tailwindcss", "VueJS", "LLMs", "ML/DL"],
 
-    "will_learn": ["FastAPI", "NLP", "Mojo", "TypeScript", "Rust", "PyTorch", "React", "Angular"]
+    "will_learn": ["NLP", "Mojo", "TypeScript", "Rust", "PyTorch", "React", "Angular"]
 }
 ```
 
