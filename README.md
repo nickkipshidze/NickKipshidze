@@ -19,10 +19,10 @@
     "frameworks": {
         "Python": ["Django", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "Tkinter", "Pygame"],
         "C/C++": ["OpenGL", "Ncurses"],
-        "CSS": ["Bootstrap"]
+        "CSS": ["Bootstrap", "Tailwindcss"]
     },
 
-    "currently_learning": ["HTML/CSS/JavaScript", "FastAPI", "DRF", "NodeJS", "Tailwindcss", "VueJS", "LLMs", "ML/DL"],
+    "currently_learning": ["HTML/CSS/JavaScript", "FastAPI", "DRF", "NodeJS", "VueJS", "LLMs", "ML/DL"],
 
     "will_learn": ["NLP", "Mojo", "TypeScript", "Rust", "PyTorch", "React", "Angular"]
 }
