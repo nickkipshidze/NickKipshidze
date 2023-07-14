@@ -22,7 +22,7 @@
         "CSS": ["Bootstrap", "Tailwindcss"]
     },
 
-    "currently_learning": ["Pydantic", "SQLAlchemy", "FastAPI", "DRF", "NodeJS", "VueJS", "LLMs", "ML/DL"],
+    "currently_learning": ["FastAPI", "DRF", "NodeJS", "VueJS", "LLMs", "ML/DL"],
 
     "will_learn": ["Electron", "NLP", "Mojo", "TypeScript", "Rust", "PyTorch", "React", "Angular"]
 }
