@@ -17,7 +17,7 @@
     "editors": ["VIM", "VSCode"],
 
     "frameworks": {
-        "Python": ["Django", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "Pygame"],
+        "Python": ["Django", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "Tailwindcss"]
     },
