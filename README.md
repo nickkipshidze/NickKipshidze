@@ -36,6 +36,6 @@
     </a>
 </p>
 
-<h3 align="center">Nick the programmer, brogrammer, computer scientist, 14 year old mad man and linux enthusiast.<h3>
+<h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast.<h3>
 
-<h3 align="center">I write programs for fun (:</h3?
+<h3 align="center">I write programs for fun (:</h3>
