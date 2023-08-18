@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">
-    Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" width="28px" alt="👋">
+    Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" width="20px" alt="👋">
 </h3>
 
 ```JSON
