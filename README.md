@@ -22,7 +22,7 @@
         "CSS": ["Bootstrap", "Tailwindcss"]
     },
 
-    "currently_learning": ["DRF", "NodeJS", "ML/DL"],
+    "currently_learning": ["Django Rest Framework", "NodeJS", "ML/DL"],
 
     "will_learn": ["Electron", "NLP", "Mojo", "TypeScript", "Rust", "React", "Angular"]
 }
