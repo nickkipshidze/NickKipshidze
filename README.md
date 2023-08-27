@@ -24,7 +24,7 @@
 
     "currently_learning": ["Django Rest Framework", "NodeJS", "ML/DL"],
 
-    "will_learn": ["Electron", "NLP", "Mojo", "TypeScript", "Rust", "React", "Angular"]
+    "will_learn": ["PyTorch", "Electron", "NLP", "Mojo", "TypeScript", "Rust", "React", "Angular"]
 }
 ```
 
