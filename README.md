@@ -17,14 +17,14 @@
     "editors": ["VIM", "VSCode"],
 
     "frameworks": {
-        "Python": ["Django", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
+        "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "Tailwindcss"]
     },
 
-    "currently_learning": ["Django Rest Framework", "NodeJS", "ML/DL"],
+    "currently_learning": ["React", "NodeJS", "ML/DL"],
 
-    "will_learn": ["PyTorch", "Electron", "NLP", "Mojo", "TypeScript", "Rust", "React", "Angular"]
+    "will_learn": ["PyTorch", "Electron", "NLP", "Mojo", "TypeScript", "Rust", "Angular"]
 }
 ```
 
