@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react">
+    <img src="https://streak-stats.demolab.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react">
 </p>
 
 <h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast.<h3>
