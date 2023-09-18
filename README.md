@@ -13,7 +13,7 @@
 
     "OS": "Arch Linux",
 
-    "languages": ["Python", "JavaScript", "C", "C++"],
+    "languages": ["Python", "JavaScript", "C", "C++", "Lua"],
     "editors": ["VIM", "VSCode"],
 
     "frameworks": {
