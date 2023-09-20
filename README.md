@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">
-    Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" width="20px" alt="👋">
+    Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" height="20px" alt="👋">
 </h3>
 
 ```JSON
@@ -34,7 +34,7 @@
     <img src="https://streak-stats.demolab.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react">
 </p>
 
-<h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast.<h3>
+<h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast. <img src="./arch.png" height="20px" alt="arch"><h3>
 <h6 align="center">Also I never play computer games (I quit when I was 13), I don't have Instagram, TikTok, Snapchat, Reddit or Twitter accounts. I only use GitHub, YouTube, Discord and rarely Facebook. I go to sleep at 1 AM and wake up at 8 AM. While I am awake, its work time. And yes I'm 15 years old.<h6>
 
 <h3 align="center">I write programs for fun (:</h3>
