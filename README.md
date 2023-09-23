@@ -28,11 +28,9 @@
 }
 ```
 
-<br>
-
-<p align="center">
+<div align="center">
     <img src="https://streak-stats.demolab.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react">
-</p>
+</div>
 
 <h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast. <img src="./arch.png" height="20px" alt="arch"><h3>
 <h6 align="center">Also I never play computer games (I quit when I was 13), I don't have Instagram, TikTok, Snapchat, Reddit or Twitter accounts. I only use GitHub, YouTube, Discord and rarely Facebook. I go to sleep at 1 AM and wake up at 8 AM. While I am awake, its work time. And yes I'm 15 years old.<h6>
