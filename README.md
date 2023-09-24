@@ -24,7 +24,7 @@
 
     "currently_learning": ["React", "jQuery", "SASS", "Vite"],
 
-    "will_learn": ["PyTorch", "Electron", "NLP", "Mojo", "TypeScript", "Rust", "Angular", "React Native"]
+    "will_learn": ["PyTorch", "Electron", "NLP", "Mojo", "TypeScript", "Angular", "React Native"]
 }
 ```
 
