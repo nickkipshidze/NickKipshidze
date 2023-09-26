@@ -29,7 +29,7 @@
 ```
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react">
+    <img alt="Here should be stats but it barely ever works ):" src="https://streak-stats.demolab.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react">
 </div>
 
 <h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast. <img src="./arch.png" height="20px" alt="arch"><h3>
