@@ -14,7 +14,7 @@
     "OS": "Arch Linux",
 
     "languages": ["Python", "JavaScript", "C", "C++", "Lua"],
-    "editors": ["VIM", "VSCode"],
+    "editors": ["VIM/NeoVim", "VSCode"],
 
     "frameworks": {
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
