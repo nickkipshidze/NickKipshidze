@@ -27,7 +27,7 @@
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;
                     -webkit-animation: gradientText 3s ease infinite;
-                    animation: gradientText 3s ease infinite;
+                    animation: gradientText 2s ease infinite;
                 }
             </style>
             <h1>Nick Kipshidze</h1>
