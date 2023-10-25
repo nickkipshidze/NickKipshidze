@@ -22,7 +22,7 @@
         "CSS": ["Bootstrap", "Tailwindcss"]
     },
 
-    "currently_learning": ["React", "jQuery", "SASS", "NextJS"],
+    "currently_learning": ["TypeScript", "React", "jQuery", "SASS", "NextJS"],
 
     "will_learn": ["PyTorch", "Electron", "NLP", "Mojo", "TypeScript", "Angular", "React Native"]
 }
