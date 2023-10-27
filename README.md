@@ -20,7 +20,7 @@
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "Tailwindcss"],
-        "JavaScript: ["NodeJS"]
+        "JavaScript": ["NodeJS"]
     },
 
     "currently_learning": ["TypeScript", "React", "NextJS"],
