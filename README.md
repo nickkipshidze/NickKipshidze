@@ -25,7 +25,7 @@
 
     "currently_learning": ["TypeScript", "React", "NextJS"],
 
-    "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "Mojo", "Angular", "React Native"]
+    "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
 ```
 
