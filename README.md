@@ -13,7 +13,7 @@
 
     "OS": "Arch Linux",
 
-    "languages": ["Python", "JavaScript", "C", "C++", "Lua"],
+    "languages": ["Python", "JavaScript", "TypeScript", "C", "C++", "Lua"],
     "editors": ["VIM/NeoVim", "VSCode"],
 
     "frameworks": {
@@ -23,7 +23,7 @@
         "JavaScript": ["NodeJS"]
     },
 
-    "currently_learning": ["TypeScript", "React", "NextJS"],
+    "currently_learning": ["React", "NextJS"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
