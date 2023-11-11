@@ -6,6 +6,8 @@
     Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" height="20px" alt="👋">
 </h3>
 
+<!-- Cool JSON profile lol -->
+
 ```JSON
 {
     "username": "NickKipshidze",
@@ -19,11 +21,11 @@
     "frameworks": {
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
-        "CSS": ["Bootstrap", "Tailwindcss"],
-        "JavaScript": ["NodeJS"]
+        "CSS": ["Bootstrap", "TailwindCSS"],
+        "JavaScript": ["Node.js"]
     },
 
-    "currently_learning": ["React", "NextJS"],
+    "currently_learning": ["React", "Next.js"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
