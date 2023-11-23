@@ -35,6 +35,10 @@
     <img alt="Here should be stats but it barely ever works" src="https://streak-stats.demolab.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react" width=700>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickKipshidze&theme=react&hide_border=true" width=700>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickKipshidze&theme=react&hide_border=true" width=700>
+    <div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NickKipshidze&theme=react&hide_border=true" width=350>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NickKipshidze&theme=react&hide_border=true" width=350>
+    </div>
 </div>
 
 <h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast. <img src="./arch.png" height="20px" alt="arch"><h3>
