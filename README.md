@@ -42,6 +42,6 @@
 </div>
 
 <h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast. <img src="./arch.png" height="20px" alt="arch"><h3>
-<h6 align="center">Also I never play computer games, I don't have Instagram, TikTok, Snapchat, Reddit or Twitter accounts. I only use GitHub, YouTube, Discord and rarely Facebook. I go to sleep at 11 PM and wake up at 8 AM. While I am awake, its work time. And yes I'm 15 years old.<h6>
+<h6 align="center">Also I never play computer games. I go to sleep at 11 PM and wake up at 8 AM. While I am awake, its work time. And yes I'm 15 years old.<h6>
 
 <h3 align="center">I write programs for fun (:</h3>
