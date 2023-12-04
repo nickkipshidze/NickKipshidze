@@ -25,9 +25,9 @@
         "JavaScript": ["Node.js"]
     },
 
-    "currently_learning": ["React", "Next.js", "PostgreSQL"],
+    "currently_learning": ["PostgreSQL"],
 
-    "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
+    "will_learn": ["React", "Next.js", "PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
 ```
 
