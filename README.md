@@ -22,12 +22,12 @@
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
-        "JavaScript": ["Node.js"]
+        "JavaScript": ["NodeJS"]
     },
 
     "currently_learning": ["PostgreSQL"],
 
-    "will_learn": ["React", "Next.js", "PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
+    "will_learn": ["React", "NextJS", "PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
 ```
 
