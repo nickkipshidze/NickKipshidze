@@ -17,6 +17,7 @@
 
     "languages": ["Python", "JavaScript", "TypeScript", "C", "C++", "Lua"],
     "editors": ["VIM/NeoVim", "VSCode"],
+    "skills": ["MySQL", "PostgreSQL", "Git", "Shell", "Linux"]
 
     "frameworks": {
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
@@ -25,9 +26,9 @@
         "JavaScript": ["NodeJS"]
     },
 
-    "currently_learning": ["Docker", "PostgreSQL"],
+    "currently_learning": ["React", "NextJS", "Docker"],
 
-    "will_learn": ["React", "NextJS", "PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
+    "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
 ```
 
