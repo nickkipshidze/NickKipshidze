@@ -17,7 +17,7 @@
 
     "languages": ["Python", "JavaScript", "TypeScript", "C", "C++", "Lua"],
     "editors": ["VIM/NeoVim", "VSCode"],
-    "skills": ["Linux", "Git", "Jupyter", "MySQL", "PostgreSQL", "Bash", "Fish", "Unity"]
+    "skills": ["Linux", "Git", "Jupyter", "MySQL", "PostgreSQL", "Bash", "Fish", "Unity", "Defold"]
 
     "frameworks": {
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
