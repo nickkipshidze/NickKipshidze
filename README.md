@@ -43,7 +43,7 @@
 </div>
 
 <h3 align="center">Nick the programmer, brogrammer, computer scientist and linux enthusiast. <img src="./arch.png" height="20px" alt="arch"><h3>
-<h6 align="center">Backend developer (Python, Django, JavaScript, NodeJS, Docker), Frontend developer (Javascript, TypeScript, TailwindCSS, UI/UX), Software developer (Python, C, C++, Docker, Git Tkinkter, PyQt5, OpenGL), Game developer (Lua, Unity, Defold, Python, PyGame), Data scientists (Python, Matplotlib, Tensorflow, NumPy, Jupyter), System administrator (Linux, Bash, Fish, VIM/NeoVim), Network engineer (Linux, IP address, LAN, DNS, Ethernet, Packet, Ports, Protocol, Cisco)</h6>
+<h6 align="center">Backend developer (Python, Django, JavaScript, NodeJS, Docker, Git), Frontend developer (Javascript, TypeScript, TailwindCSS, UI/UX), Software developer (Python, C, C++, Docker, Git Tkinkter, PyQt5, OpenGL), Game developer (Lua, Unity, Defold, Python, PyGame), Data scientists (Python, Matplotlib, Tensorflow, NumPy, Jupyter), System administrator (Linux, Bash, Fish, VIM/NeoVim), Network engineer (Linux, IP address, LAN, DNS, Ethernet, Packet, Ports, Protocol, Cisco)</h6>
 <h6 align="center">Also I never play computer games. I go to sleep at 11 PM and wake up at 8 AM. While I am awake, its work time. And yes I'm 15 years old.<h6>
 
 <h3 align="center">I write programs for fun (:</h3>
