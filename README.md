@@ -26,7 +26,7 @@
         "JavaScript": ["NodeJS"]
     },
 
-    "currently_learning": ["React", "NextJS", "PHP"],
+    "currently_learning": ["React", "NextJS", "PHP", "Angular"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
