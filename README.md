@@ -47,5 +47,5 @@
 
 <h3 align="center">I write programs for fun (:</h3>
 
-<h4 align="center">Send me an email here: kipshidze.nick@gmail.com</h4>
+<h4 align="center">Send me an email here: <a href="mailto:kipshidze.nick@gmail.com">kipshidze.nick@gmail.com</a></h4>
 <div align="center"><img src="./arch.png" height="20px" alt="arch"></div>
