@@ -23,10 +23,10 @@
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
-        "JavaScript": ["NodeJS"]
+        "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["TCP/IP", "React", "NextJS", "Angular"],
+    "currently_learning": ["TCP/IP", "React", "NextJS"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
