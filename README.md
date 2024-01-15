@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/gradient-strip.gif" width=100%>
+
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/name.svg" alt="Nick Kipshidze"/>
 </h1>
@@ -42,10 +44,13 @@
     </div>
 </div>
 
+<!-- In 1 year I will realize that I actually knew nothing at all -->
 <h6 align="center">Backend developer (Python, Django, JavaScript, NodeJS, Docker, Git), Frontend developer (Javascript, TypeScript, TailwindCSS, UI/UX), Software developer (Python, C, C++, Docker, Git Tkinkter, PyQt5, OpenGL), Game developer (Lua, Unity, Defold, Python, PyGame), Data scientists (Python, Matplotlib, Tensorflow, NumPy, Jupyter), System administrator (Linux, Bash, Fish, VIM/NeoVim), Network engineer (Linux, IP address, LAN, DNS, Ethernet, Packet, Ports, Protocol, Cisco)</h6>
 <h6 align="center">Also I never play computer games. I go to sleep at 11 PM and wake up at 4 AM, go to sleep again at 2 PM wake up at 5 PM. While I am awake, its work time. And yes I'm 15 years old.<h6>
 
 <h3 align="center">I write programs for fun (:</h3>
 
 <h4 align="center">Send me an email here: <a href="mailto:kipshidze.nick@gmail.com">kipshidze.nick@gmail.com</a></h4>
-<div align="center"><img src="./arch.png" height="20px" alt="arch"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/arch.png" height="20px" alt="arch"></div>
+
+<img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/gradient-strip.gif" width=100%>
