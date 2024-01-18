@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["TCP/IP", "React", "NextJS"],
+    "currently_learning": ["SSL", "TLS", "NAS", "SAN", "OSI model" "TCP/IP", "React", "NextJS"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
