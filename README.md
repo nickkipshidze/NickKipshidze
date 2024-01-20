@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["Cyber Security", "SSL", "TLS", "NAS", "SAN", "OSI model", "TCP/IP", "React", "NextJS"],
+    "currently_learning": ["Cyber Security", "NAS", "SAN", "OSI model", "React", "NextJS"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
@@ -45,7 +45,7 @@
 </div>
 
 <!-- In 1 year I will realize that I actually knew nothing at all -->
-<h6 align="center">Backend developer (Python, Django, JavaScript, NodeJS, Docker, Git), Frontend developer (Javascript, TypeScript, TailwindCSS, UI/UX), Software developer (Python, C, C++, Docker, Git Tkinkter, PyQt5, OpenGL), Game developer (Lua, Unity, Defold, Python, PyGame), Data scientists (Python, Matplotlib, Tensorflow, NumPy, Jupyter), System administrator (Linux, Bash, Fish, VIM/NeoVim), Network engineer (Linux, IP address, LAN, DNS, Ethernet, Packet, Ports, Protocol, Cisco)</h6>
+<h6 align="center">Backend developer (Python, Django, JavaScript, NodeJS, Docker, Git), Frontend developer (Javascript, TypeScript, TailwindCSS, UI/UX), Software developer (Python, C, C++, Docker, Git Tkinkter, PyQt5, OpenGL), Game developer (Lua, Unity, Defold, Python, PyGame), Data scientists (Python, Matplotlib, Tensorflow, NumPy, Jupyter), System administrator (Linux, Bash, Fish, VIM/NeoVim), Network engineer (Linux, IP, LAN, DNS, Ethernet, Packet, Ports, Protocols, Cisco, SSL, TLS, MAN, LAN, WAN, WLAN, ARP)</h6>
 <h6 align="center">Also I never play computer games. I go to sleep at 11 PM and wake up at 4 AM, go to sleep again at 2 PM wake up at 5 PM. While I am awake, its work time. And yes I'm 15 years old.<h6>
 
 <h3 align="center">I write programs for fun (:</h3>
