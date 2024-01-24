@@ -25,12 +25,12 @@
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
-        "JS/TS": ["NodeJS", "Angular"]
+        "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
     },
 
-    "currently_learning": ["Cyber Security", "nslookup", "iptables", "netstat", "nmap", "React", "NextJS"],
+    "currently_learning": ["Cyber Security", "nslookup", "iptables", "netstat", "nmap"],
 
-    "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
+    "will_learn": ["dig", "arp", "tcpdump", "tracert", "PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
 ```
 
