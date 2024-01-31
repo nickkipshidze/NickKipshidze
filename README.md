@@ -28,9 +28,9 @@
         "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
     },
 
-    "currently_learning": ["Cyber Security", "nmap", "nslookup", "iptables", "netstat", "dig"],
+    "currently_learning": ["Cyber Security", "nmap", "nslookup", "iptables", "netstat", "dig", "arp"],
 
-    "will_learn": ["arp", "tcpdump", "tracert", "PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
+    "will_learn": ["tcpdump", "tracert", "PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
 ```
 
