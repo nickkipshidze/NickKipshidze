@@ -44,7 +44,7 @@
     </div>
 </div>
 
-<h6 align="center">Also I never play computer games. I go to sleep at 11 PM and wake up at 4 AM, go to sleep again at 2 PM wake up at 5 PM. While I am awake, its work time. And yes I'm 15 years old.<h6>
+<h6 align="center">Also I never play computer games. While I am awake, its work time. And yes I'm 15 years old.<h6>
 
 <h3 align="center">I write programs for fun (:</h3>
 
