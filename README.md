@@ -19,7 +19,7 @@
 
     "languages": ["Python", "JavaScript", "TypeScript", "C", "C++", "Lua"],
     "editors": ["VIM/NeoVim", "VSCode"],
-    "skills": ["Linux", "Git", "Docker", "Jupyter", "MySQL", "PostgreSQL", "Bash", "Fish", "Unity", "Defold", "netstat", "dig", "arp", "nslookup", "route"]
+    "skills": ["Linux", "Git", "Docker", "Jupyter", "MySQL", "PostgreSQL", "Bash", "Fish", "Unity", "Defold", "nmap", "netstat", "dig", "arp", "nslookup", "route"]
 
     "frameworks": {
         "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
     },
 
-    "currently_learning": ["DNNs", "Cyber Security", "nmap", "iptables", "tcpdump", "tracert"],
+    "currently_learning": ["AI/ML", "DNNs", "Cyber Security", "iptables", "tcpdump", "tracert"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
