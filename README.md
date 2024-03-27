@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
     },
 
-    "currently_learning": ["AI/ML", "DNNs", "Cyber Security", "Cryptography"],
+    "currently_learning": ["NASM", "AI/ML", "DNNs", "Cyber Security", "Cryptography"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
