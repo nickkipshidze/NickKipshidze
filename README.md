@@ -17,7 +17,7 @@
 
     "OS": "Arch Linux",
 
-    "languages": ["Python", "JavaScript", "TypeScript", "C", "C++", "Lua"],
+    "languages": ["Python", "JavaScript", "TypeScript", "C", "C++", "Lua", "Assembly"],
     "editors": ["VIM/NeoVim", "VSCode"],
     "skills": ["Linux", "Git", "Docker", "Jupyter", "MySQL", "PostgreSQL", "Bash", "Fish", "Unity", "Defold", "nmap", "netstat", "dig", "arp", "nslookup", "route", "iptables", "tcpdump", "traceroute"]
 
@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
     },
 
-    "currently_learning": ["NASM", "AI/ML", "DNNs", "Cyber Security", "Cryptography"],
+    "currently_learning": ["AI/ML", "DNNs", "Cyber Security", "Cryptography"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
