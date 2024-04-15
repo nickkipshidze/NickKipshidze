@@ -8,6 +8,8 @@
     Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" height="20px" alt="👋">
 </h3>
 
+<h4>Check out this cool music I made (: https://youtu.be/3k1GU4oxe-k</h4>
+
 <!-- Cool JSON profile lol -->
 
 ```JSON
