@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
     },
 
-    "currently_learning": ["Anaconda", "AI/ML", "DNNs", "Cyber Security", "Cryptography"],
+    "currently_learning": ["Jupyter Notebook", "Anaconda", "AI/ML", "DNNs", "Cyber Security"],
 
     "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
