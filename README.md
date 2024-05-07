@@ -22,7 +22,7 @@
     "skills": ["Linux", "Git", "Docker", "Jupyter", "MySQL", "PostgreSQL", "Bash", "Fish", "Unity", "Defold", "nmap", "netstat", "dig", "arp", "nslookup", "route", "iptables", "tcpdump", "traceroute"]
 
     "frameworks": {
-        "Python": ["Django", "DRF", "NumPy", "Tensorflow", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
+        "Python": ["Django", "DRF", "NumPy", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
         "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
