@@ -28,9 +28,9 @@
         "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
     },
 
-    "currently_learning": ["SciKit-Learn", "Jupyter Notebook", "Anaconda", "AI/ML"],
+    "currently_learning": ["PyTorch", "SciKit-Learn", "Jupyter Notebook", "Anaconda", "AI/ML"],
 
-    "will_learn": ["PyTorch", "Electron", "jQuery", "SASS", "NLP", "React Native"]
+    "will_learn": ["Electron", "jQuery", "SASS", "NLP", "React Native"]
 }
 ```
 
