@@ -25,7 +25,7 @@
         "Python": ["Django", "DRF", "NumPy", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
-        "JS/TS": ["NodeJS", "Angular", "React", "NextJS"]
+        "JS/TS": ["NodeJS", "Angular"]
     },
 
     "currently_learning": ["PyTorch", "SciKit-Learn", "AI/ML"],
