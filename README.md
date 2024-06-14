@@ -28,9 +28,9 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["PyTorch", "SciKit-Learn", "AI/ML"],
+    "currently_learning": ["PyTorch", "SciKit-Learn", "CNNs", "AI/ML"],
 
-    "will_learn": ["Tensorflow", "Electron", "Seaborn", "Keras", "CNNs", "DNNs"]
+    "will_learn": ["Tensorflow", "Seaborn", "Keras", "DNNs"]
 }
 ```
 
