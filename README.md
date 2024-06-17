@@ -30,7 +30,7 @@
 
     "currently_learning": ["PyTorch", "SciKit-Learn", "CNNs", "DNNs", "AI/ML"],
 
-    "will_learn": ["Tensorflow", "Seaborn", "Keras"]
+    "will_learn": ["Tensorflow", "RNN", "NLP", "Seaborn", "Keras"]
 }
 ```
 
