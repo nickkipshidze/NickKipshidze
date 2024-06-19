@@ -22,15 +22,15 @@
     "skills": ["Linux", "Git", "Docker", "Anaconda", "Jupyter", "MySQL", "LaTeX", "PostgreSQL", "Bash", "Fish", "Unity", "Defold", "nmap", "netstat", "dig", "arp", "nslookup", "route", "iptables", "tcpdump", "traceroute", "conda"]
 
     "frameworks": {
-        "Python": ["Django", "DRF", "NumPy", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
+        "Python": ["SciKit-Learn", "Django", "DRF", "NumPy", "Pandas", "Matplotlib", "OpenCV", "PyQt5", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["PyTorch", "SciKit-Learn", "CNNs", "DNNs", "AI/ML"],
+    "currently_learning": ["Tensorflow", "PyTorch", "CNNs", "DNNs", "AI/ML"],
 
-    "will_learn": ["Tensorflow", "RNN", "NLP", "Seaborn", "Keras"]
+    "will_learn": ["RNN", "NLP", "Seaborn", "Keras"]
 }
 ```
 
