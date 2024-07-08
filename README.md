@@ -28,9 +28,9 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["TensorFlow/Keras", "AI/ML"],
+    "currently_learning": ["TensorFlow/Keras", "RNNs", "OCR", "AI/ML"],
 
-    "will_learn": ["RNN", "NLP", "Seaborn"]
+    "will_learn": ["NLP", "Seaborn"]
 }
 ```
 
