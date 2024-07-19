@@ -30,7 +30,7 @@
 
     "currently_learning": ["TensorFlow/Keras", "RNNs", "AI/ML"],
 
-    "will_learn": ["OCR", "LLMs", "NLP", "Seaborn"]
+    "will_learn": ["GANs", "OCR", "LLMs", "NLP", "Seaborn"]
 }
 ```
 
