@@ -15,7 +15,7 @@
     "username": "nickkipshidze",
     "fullname": "Nicolas Kipshidze",
 
-    "OS": "Arch Linux",
+    "OS": "Arch Linux btw",
 
     "languages": ["Python", "JavaScript", "TypeScript", "C", "C++", "Lua", "Assembly"],
     "editors": ["VIM/NeoVim", "VSCode"],
