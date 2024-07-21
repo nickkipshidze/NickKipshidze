@@ -30,7 +30,7 @@
 
     "currently_learning": ["TensorFlow/Keras", "RNNs", "AI/ML"],
 
-    "will_learn": ["GANs", "OCR", "LLMs", "NLP", "Seaborn"]
+    "will_learn": ["PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP", "Seaborn"]
 }
 ```
 
