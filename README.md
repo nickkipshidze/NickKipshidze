@@ -22,13 +22,13 @@
     "skills": ["Linux", "Git", "CNNs", "DNNs", "Anaconda", "Jupyter", "Docker", "MySQL", "LaTeX", "PostgreSQL", "Bash", "Fish", "Unity"]
 
     "frameworks": {
-        "Python": ["PyTorch", "SciKit-Learn", "Django", "DRF", "NumPy", "Pandas", "Matplotlib", "Pyglet", "Tkinter", "PyGame"],
+        "Python": ["PyTorch", "SciKit-Learn", "TensorFlow/Keras", "Django", "DRF", "NumPy", "Pandas", "Matplotlib", "Pyglet", "Tkinter", "PyGame"],
         "C/C++": ["OpenGL", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["TensorFlow/Keras", "RNNs", "AI/ML"],
+    "currently_learning": ["RNNs", "AI/ML"],
 
     "will_learn": ["PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP", "Seaborn"]
 }
