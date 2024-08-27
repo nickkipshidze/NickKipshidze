@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["Blender", "3D modelling", "Sculpting", "Animation", "Hard-surface modelling", "3D simulations"],
+    "currently_learning": ["Blender", "3D modelling", "Sculpting", "Animation", "Hard-surface modelling", "Simulations"],
 
     "will_learn": ["RNNs", "AI/ML", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP", "Seaborn"]
 }
