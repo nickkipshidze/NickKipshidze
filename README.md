@@ -30,7 +30,7 @@
 
     "currently_learning": ["Blender", "3D modelling", "Sculpting", "Animation", "Hard-surface modelling", "Simulations"],
 
-    "will_learn": ["Godot", "RNNs", "AI/ML", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP", "Seaborn"]
+    "will_learn": ["Godot", "RNNs", "AI/ML", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
 }
 ```
 
