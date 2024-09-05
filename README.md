@@ -17,7 +17,7 @@
 
     "OS": "Arch Linux btw",
 
-    "languages": ["Python", "JavaScript", "TypeScript", "C/C++", "Lua", "Assembly"],
+    "languages": ["Python", "JavaScript", "TypeScript", "C/C++", "Lua", "x86 Intel Assembly"],
     "editors": ["VIM/NeoVim", "VSCode"],
     "skills": ["Linux", "Git", "CNNs", "DNNs", "Anaconda", "Jupyter", "Docker", "MySQL", "LaTeX", "PostgreSQL", "Bash", "Fish", "Unity"]
 
