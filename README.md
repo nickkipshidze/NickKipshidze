@@ -28,7 +28,7 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["ASR", "Kaldi", "Vosk", "GO", "Blender", "3D modelling", "Animation", "Hard-surface modelling", "Simulations"],
+    "currently_learning": ["ASR", "Kaldi", "Vosk", "GO", "Blender"],
 
     "will_learn": ["Godot", "RNNs", "AI/ML", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
 }
