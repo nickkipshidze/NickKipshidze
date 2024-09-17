@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="left">
-    Welcome to my profile <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" height="20px" alt="👋">
+    eliforp ym ot emocleW <img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/wave.gif" height="20px" alt="👋">
 </h3>
 
 <!-- Cool JSON profile lol -->
