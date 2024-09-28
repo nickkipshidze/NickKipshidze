@@ -28,9 +28,9 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["ASR", "Kaldi", "Vosk", "GO", "Blender"],
+    "currently_learning": ["Guitar", "GO", "Blender"],
 
-    "will_learn": ["Godot", "RNNs", "AI/ML", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
+    "will_learn": ["ASR", "Kaldi", "Vosk", "Godot", "RNNs", "AI/ML", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
 }
 ```
 
