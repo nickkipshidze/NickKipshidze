@@ -44,9 +44,7 @@
     </div>
 </div>
 
-<h6 align="center">Also I never play computer games. While I am awake, its work time. And yes I'm 16 years old.<h6>
-
-<h3 align="center">I write programs for fun (:</h3>
+<h3 align="center">I write programs for fun C:</h3>
 
 <h4 align="center">Send me an email here: <a href="mailto:kipshidze.nick@gmail.com">kipshidze.nick@gmail.com</a></h4>
 <div align="center"><img src="https://raw.githubusercontent.com/NickKipshidze/NickKipshidze/main/arch.png" height="20px" alt="arch"></div>
