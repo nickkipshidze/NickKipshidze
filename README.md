@@ -23,12 +23,12 @@
 
     "frameworks": {
         "Python": ["PyTorch", "SciKit-Learn", "TensorFlow/Keras", "Django", "DRF", "NumPy", "Pandas", "Matplotlib", "Pyglet", "Tkinter", "PyGame"],
-        "C/C++": ["OpenGL", "Ncurses"],
+        "C/C++": ["Raylib", "OpenGL", "GLFW3", "glad", "Ncurses"],
         "CSS": ["Bootstrap", "TailwindCSS"],
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["React", "TTS", "Automatic Video Editing", "Vosk", "Guitar", "GO", "Blender"],
+    "currently_learning": [],
 
     "will_learn": ["ASR", "Kaldi", "Godot", "RNNs", "AI/ML", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
 }
