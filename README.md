@@ -30,7 +30,7 @@
 
     "currently_learning": ["AI/ML", "SDL2"],
 
-    "will_learn": ["ASR", "Kaldi", "Godot", "RNNs", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
+    "will_learn": ["RNNs", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
 }
 ```
 
