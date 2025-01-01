@@ -28,9 +28,9 @@
         "JS/TS": ["NodeJS", "Angular"]
     },
 
-    "currently_learning": ["AI/ML", "SDL2"],
+    "currently_learning": ["AI/ML", "Statistics", "Data Analysis"],
 
-    "will_learn": ["RNNs", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP"]
+    "will_learn": ["RNNs", "PyTorch.cpp", "GANs", "OCR", "LLMs", "NLP", "SDL2"]
 }
 ```
 
