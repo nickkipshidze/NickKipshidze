@@ -36,7 +36,8 @@
 
 Mainly working on **Kaggle** for now! Follow my activity on my profile: https://www.kaggle.com/kipshidze
 - https://www.kaggle.com/code/kipshidze/modern-gan-introduction
-- https://www.kaggle.com/code/kipshidze/simple-mnist-gan
+- https://www.kaggle.com/code/kipshidze/kiddie-gpt
+- https://www.kaggle.com/datasets/kipshidze/drunk-vs-sober-infrared-image-dataset
 
 <div align="center">
 <!--     <img alt="Here should be stats but it barely ever works" src="https://streak-stats.demolab.com/?user=NickKipshidze&hide_border=true&card_width=700&theme=react" width=700> -->
